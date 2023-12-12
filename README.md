@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💽💾💿&fontAlign=70)
+###My Goal🚀🚀 
+</br>
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2eehy&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
