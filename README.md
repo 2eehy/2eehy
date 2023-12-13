@@ -9,3 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=2eehy&theme=light&show_icons=true" width="42%" />
 </a>
 
+🛠 Tech Stack Goal to Final 🛠
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-1DAFB?style=flat&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=MySql&logoColor=white"/></a>
