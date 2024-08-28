@@ -17,5 +17,6 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ElasticSearch-6DB33F?style=flat&logo=ElasticSearch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Logstash-6DB33F?style=flat&logo=Logstash&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kibana-6DB33F?style=flat&logo=Kibana&logoColor=white"/></a>
 
 
