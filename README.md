@@ -1,6 +1,7 @@
 ## HOO YOUNG's GitHub
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hello!%20I'm%20Hooyoung%20🧑🏻‍💻&fontAlign=70&fontSize=30&fontColor=ffffff&desc=Welcome%20to%20my%20profile&descAlign=80&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&animation=blink&section=header&text=Hello!%20I'm%20Hooyoung%20🧑🏻‍💻&fontAlign=50&fontSize=40&fontColor=fff&desc=Welcome%20to%20my%20space&descAlign=50&descAlignY=70&descSize=20&descColor=ddd)
+
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2eehy&exclude_repo=2eehy.github.io&layout=compact&theme=light" />
