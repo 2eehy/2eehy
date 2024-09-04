@@ -35,3 +35,5 @@
 
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20Cognito-FF9900?style=flat&logo=Amazon%20Cognito&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=Amazon%20AWS&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20Auto%20Scaling-FF9900?style=flat&logo=Amazon%20AWS&logoColor=white"/>
+
+   
