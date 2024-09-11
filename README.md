@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2eehy&exclude_repo=2eehy.github.io&layout=compact&theme=light" />
   </a>
   <a href="https://github.com/2eehy">
-    <img src="https://github-readme-stats.vercel.app/api?username=2eehy&theme=light&show_icons=true" width="42%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=2eehy&theme=light&show_icons=true" width="73%" />
   </a>
 </div>
 
