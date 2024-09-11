@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/2eehy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3C79F5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+JavaScript+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3C79F5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -91,8 +91,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2eehy&exclude_repo=2eehy.github.io&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=2eehy&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2eehy&exclude_repo=2eehy.github.io&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2eehy&show_icons=true" alt="GitHub Stats" width="70%" />
 </p>
 
 
