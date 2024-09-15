@@ -92,6 +92,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2eehy&exclude_repo=2eehy.github.io&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=2eehy&show_icons=true" alt="GitHub Stats" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2eehy&show_icons=true" alt="GitHub Stats" width="35%" />
 </p>
 
